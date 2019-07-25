@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Manifest/v16
+/bin
+/bin/Debug
+/obj
+/obj/Release
+/.vs
+/packages
+*.xml
+*.xlsx
+*.gz
+/XsdClassGen.tt
+/XsdClassGen.mapping
+/XsdClassGen.cs
